@@ -1,4 +1,4 @@
-# Calcula a médiae diz se foi aprovado ou não
+# Calcula a média e diz se foi aprovado ou não
 
 ## Classe que recebe as notas, retorna a média e diz se foi aprovado ou não
 ````
